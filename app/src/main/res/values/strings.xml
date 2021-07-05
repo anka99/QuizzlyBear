@@ -1,0 +1,67 @@
+
+<resources>
+    <string name="app_name">Quizzly Bear</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="android_trivia">Quizzly Bear</string>
+    <string name="about_text">Quizzly bear is a quiz about amazing animals. Have fun and learn more about these awesome creatures! </string>
+    <string name="rules_text">Select the answer from the options given. Each time you get a feedback and a possibility to learn more about the animal.</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="trivia_hint">Trivia Hint</string>
+    <string name="title_android_trivia_question">Quizzly Bear(%1$d/%2$d)</string>
+    <string name="title_quizzly_bear">Quizzly Bear</string>
+    <string name="title_about_trivia">About Quizzly Bear</string>
+    <string name="title_trivia_rules">Quizzly Bear Rules</string>
+    <string name="share_success_text">I mastered #UdacityAndroidTrivia with %1$d/%2$d correct questions!</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="next_question">Next</string>
+    <string name="learn_more">Learn more</string>
+    <string name="question">What is this animal?</string>
+
+    <string name="q1a1">white nose coati</string>
+    <string name="q1a2">silky anteater</string>
+    <string name="q1a3">Virginia opossum</string>
+    <string name="q1a4">red panda</string>
+
+    <string name="q2a1">pouched frog</string>
+    <string name="q2a2">european fire-bellied toad</string>
+    <string name="q2a3">perak horned toad</string>
+    <string name="q2a4">royal ghost frog</string>
+
+    <string name="q3a1">Sri Lankan green vine snake</string>
+    <string name="q3a2">Texas blind snake</string>
+    <string name="q3a3">tentacle snake</string>
+    <string name="q3a4">Vietnamese longnose snake</string>
+
+    <string name="q4a1">Blanding\'s turtle</string>
+    <string name="q4a2">diamondback terrapin</string>
+    <string name="q4a3">angonoka tortoise</string>
+    <string name="q4a4">desert tortoise</string>
+
+    <string name="q5a1">mandarin dragonet</string>
+    <string name="q5a2">royal panaque</string>
+    <string name="q5a3">African pompano</string>
+    <string name="q5a4">Himalayan mahseer</string>
+
+    <string name="q6a1">tacua speciosa</string>
+    <string name="q6a2">weaver beetle</string>
+    <string name="q6a3">saga pedo</string>
+    <string name="q6a4">dead leaf mantis</string>
+
+    <string name="q7a1">klipspringer</string>
+    <string name="q7a2">Vietnam mouse-deer</string>
+    <string name="q7a3">coeandous</string>
+    <string name="q7a4">markhor</string>
+
+    <string name="play_again">Play again</string>
+    <string name="end_game">There are no more questions.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
